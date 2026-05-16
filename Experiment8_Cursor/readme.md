@@ -1,7 +1,4 @@
 # EXPERIMENT 8: PL/SQL Cursor Programs
-## NAME : VISHAL C
-## REGISTRATION NUMBER : 212224100062
-
 ## AIM
 To write and execute PL/SQL programs using cursors and exception handling to manage runtime errors effectively and display appropriate messages.
 
