@@ -1,7 +1,4 @@
 # Experiment 5: Subqueries and Views
-## NAME : VISHAL C
-## REGISTRATION NUMBER : 212224100062
-
 ## AIM
 To study and implement subqueries and views.
 
