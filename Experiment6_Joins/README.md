@@ -1,7 +1,4 @@
 # EXPERIMENT 6: Joins
-## NAME : VISHAL C
-## REGISTRATION NUMBER : 212224100062
-
 ## AIM
 To study and implement different types of joins.
 
