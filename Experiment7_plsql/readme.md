@@ -1,8 +1,4 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-## NAME :  VISHAL C
-## REGISTRATION NUMBER : 212224100062
-
-
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
